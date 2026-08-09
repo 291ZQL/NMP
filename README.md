@@ -4,7 +4,7 @@
   <img src="public/logo.png" alt="MoonTVPlus Logo" width="120">
 </div>
 
-## ⚠️ 请某些人停止你的抄袭行为，不要我上什么功能你就抄什么，借鉴≠抄袭
+## ⚠️ 本项目转自网络资源，仅供个人学习测试使用，请某些人的抄袭转载行为需自责，
 
 > 🎬 **MoonTVPlus** 是基于 [MoonTV v100](https://github.com/MoonTechLab/LunaTV) 二次开发的增强版影视聚合播放器。它在原版基础上新增了外部播放器支持、视频超分、弹幕系统、评论抓取等实用功能，提供更强大的观影体验。
 
