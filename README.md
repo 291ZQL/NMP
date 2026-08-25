@@ -1,12 +1,12 @@
-# MoonTVPlus
+# NMP
 
 <div align="center">
-  <img src="public/logo.png" alt="MoonTVPlus Logo" width="120">
+  <img src="public/logo.png" alt="NMP Logo" width="120">
 </div>
 
 ## ⚠️ 本项目转自网络资源，仅供个人学习测试使用，不提供任何答辩及回复，请某些人的抄袭转载行为需自责，
 
-> 🎬 **MoonTVPlus** 是基于 [MoonTV v100](https://github.com/MoonTechLab/LunaTV) 二次开发的增强版影视聚合播放器。它在原版基础上新增了外部播放器支持、视频超分、弹幕系统、评论抓取等实用功能，提供更强大的观影体验。
+> 🎬 **NMP** 是基于 [MoonTV v100](https://github.com/MoonTechLab/LunaTV) 二次开发的增强版影视聚合播放器。它在原版基础上新增了外部播放器支持、视频超分、弹幕系统、评论抓取等实用功能，提供更强大的观影体验。
 
 <div align="center">
 
