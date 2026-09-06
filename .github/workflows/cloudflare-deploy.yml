@@ -33,7 +33,7 @@ jobs:
           cache: 'pnpm'
 
       - name: Install dependencies
-        run: npm ci # 使用 ci 而非 install，确保依赖树严格一致
+        run: npm install --frozen-lockfile
 
       - name: Set environment variables
         run: |
