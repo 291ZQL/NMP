@@ -1,4 +1,4 @@
-name = "NMP"
+name = "moontv-plus"
 compatibility_date = "2026-08-04"
 compatibility_flags = ["nodejs_compat"]
 main = ".open-next/worker.js"
