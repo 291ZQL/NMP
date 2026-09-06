@@ -29,11 +29,11 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v6
         with:
-          node-version: '24'
+          node-version: ${{ env.NODE_VERSION }}
           cache: 'pnpm'
 
       - name: Install dependencies
-        run: pnpm install --frozen-lockfile
+        run: npm ci # 使用 ci 而非 install，确保依赖树严格一致
 
       - name: Set environment variables
         run: |
